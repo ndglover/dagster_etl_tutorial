@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: etl_tutorial.definitions
+  location_name: etl_tutorial
